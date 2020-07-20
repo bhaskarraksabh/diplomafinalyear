@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">helpme</string>
+    <string name="password">Password</string>
+    <string name="description">Description</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="button">Save</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_stop_ring">StopRingActivity</string>
+    <string name="title_activity_lock_me_now">LockMeNowActivity</string>
+    <string name="title_activity_device_admin">DeviceAdmin</string>
+</resources>
